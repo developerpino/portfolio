@@ -3,7 +3,7 @@
 
 조회수 : 4073, 댓글 : 47개를 기록했던 글이 있습니다.
 
-![마크다운 로고](http://bit.ly/1nmhGjE)
+![phpschool_img_01](https://user-images.githubusercontent.com/56210220/66379776-16c65e80-e9f1-11e9-8adb-baf1679652f4.png)
 
 
 [https://phpschool.com/gnuboard4/bbs/board.php?bo_table=forum&wr_id=152674&page=2](https://phpschool.com/gnuboard4/bbs/board.php?bo_table=forum&wr_id=152674&page=2)
