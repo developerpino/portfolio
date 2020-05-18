@@ -1,3 +1,6 @@
+# 대표작 (simple-editor)
+![pino editor](./img/simple_editor.gif "pino editor")
+
 # 자바 전문가 교육 과정 이수
 졸업을 앞둔 2009년 여름방학 때,
 
@@ -19,8 +22,6 @@
 
 # '윈디소프트' 에서의 경험
 ## 괴혼 게임 사이트
-### 왜?
-
 javascript, html, css, jquery, mysql, postgres, php, svn, centOS, apache
 
 2010.01 ~ 2010.03
@@ -88,7 +89,6 @@ javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 
 
 ## 몰테일 고객 페이지
-
 javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 
 2011.01 ~ 2014.01
@@ -105,7 +105,6 @@ javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 - 배송 추적 등 부가 기능
 
 ## 몰테일 중국
-
 javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 
 2012.01 ~ 2012.12
@@ -113,7 +112,6 @@ javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 - 미국 시스템을 적용하여 중국 서비스 오픈
 
 ## 몰테일 일본
-
 javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 
 2013.01 ~ 2013.12
@@ -122,7 +120,6 @@ javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 # 현재 카페24 로의 이직
 
 ## PSDA
-
 javascrpit, html, css, jquery, php, codeigniter, svn, nginx
 
 2014.06 ~ 2015.06
@@ -135,7 +132,6 @@ javascrpit, html, css, jquery, php, codeigniter, svn, nginx
 - 번역된 문구로 다시 psd파일을 만들어 줄수 있는 rendering server 와의 통신
 
 ## 프리백
-
 javascrpit, html, css, jquery, php, codeigniter, svn, nginx
 
 2015.07 ~ 2015.12
@@ -146,8 +142,7 @@ javascrpit, html, css, jquery, php, codeigniter, svn, nginx
 - php imagic 등을 활용하여 티몰, 라쿠텐 등 해외 오픈마켓에서 요구하는 이미지로 변형
 
 ## 심플에디터
-
-javascript, angular, requireJS, angularAMD, html, css, webpack, git
+javascript, html, css, angular, requireJS, angularAMD, webpack, git
 
 2016.01 ~ 2016.12
 
@@ -161,8 +156,7 @@ javascript, angular, requireJS, angularAMD, html, css, webpack, git
 
 
 ## 이미지번역툴
-
-javascript, angular4, typescript, html, css, sass, webpack, mercurial
+javascript, html, css, angular4, typescript, sass, webpack, mercurial
 
 2017.01 ~ 2017.12
 
@@ -174,8 +168,7 @@ javascript, angular4, typescript, html, css, sass, webpack, mercurial
 
 
 
-## 카페24 번역 시스템 구축
-
+## 카페24 통합 번역 시스템 구축
 javascript, html, css, vuejs, webpack, mercurial, elasticsearch, rabbitMQ, logstash, kafka
 
 2018.01 ~ 2018.12
@@ -186,10 +179,9 @@ javascript, html, css, vuejs, webpack, mercurial, elasticsearch, rabbitMQ, logst
 
 
 ## 카페24 통합 CS 시스템 구축
-
 javascript, html, css, vuejs, webpack, mercurial, elasticsearch, rabbitMQ, logstash, kafka
 
-2019.01 ~ 2019.10
+2019.01 ~ 2019.12
 
 - 카페24에 등록된 대규모 상점의 판매중인 영문,중문,일문 으로 접수되는 모든 문의를 수집
 - 수집된 이메일, 각종 게시판, 리뷰 등의 문의들을 일괄적으로 확인 및 처리 할수 있는 시스템 구축
