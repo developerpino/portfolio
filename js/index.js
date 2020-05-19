@@ -264,7 +264,7 @@ const profile = {
             "periodStart": "January 2010",
             "periodEnd": "December 2010",
             "organisation": "윈디소프트",
-            "experience": "<ul><li>- 현재는 없지만 많은 것을 경험할 수 있었던 곳</li><li>- 팀장님은 6개월간 공부하라 하셨지만, 이주 후 실무 투입 요청(이후부터 고생의 시작..)</li><li>- 입사 년도에 신규 게임 5개를 런칭</li><li>ㄴ 겟엠프트2, COHO online, 헤바 온라인, 괴혼, 러스티하츠</li><li>ㄴ 모두 망했고 회사도 망했습니다.</li></ul>",
+            "experience": "<ul><li>- 현재는 없어졌지만 많은 것을 경험할 수 있었던 곳</li><li>- 팀장님은 6개월간 공부하라 하셨지만, 이주 후 실무 투입 요청(이후부터 고생의 시작..)</li><li>- 입사 년도에 신규 게임 5개를 런칭</li><li>ㄴ 겟엠프트2, COHO online, 헤바 온라인, 괴혼, 러스티하츠</li><li>ㄴ 모두 망했고 회사도 망했습니다.</li></ul>",
             "type": "work"
         }
     ],
