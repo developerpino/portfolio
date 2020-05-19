@@ -244,21 +244,161 @@ const profile = {
             "periodStart": "July 2014",
             "periodEnd": "Present",
             "organisation": "카페24",
-            "experience": "<ul><li>Involved in designing, developing features and parts of an App Distribution platform.</li><li>Majorly my work involves:</li><ul><li>– Designing, writing and consuming HTTP-REST APIs.</li><li>– Setting up job queues for multiple monitoring tasks.</li><li>– Writing template code for full-stack Web and Desktop applications.</li><li>– Automating and setting up application build processes.</li><li>– Extensive research and POC creation of features,solutions for novel business requirements.</li><li>– Identifying bottlenecks across system and optimize database queries, page load time, serving time, build time.</li></ul><li>Developed node-js, python back-end applications for automating and monitoring application build processes.</li><li>Developed node-js module for restructuring and renaming directory tree, handled resolution of interlinked file-paths in files.</li><li>Developed macOs desktop application(A Safari App Extension) using Swift for search monetization with app installer and app auto update feature from scratch</li></ul>",
+            "experience": "<ul><li>- 풀스택 개발자로 입사하여 2016 년 부터는 front-end 팀에서 근무</li><li>- restful api 전반적인 틀을 구성<br/>ㄴ <a href='../sapi.pdf' target='_blank'>팀내 공유 했던 문서 convert to PDF</a></li><li>- 신규 프로젝트 시 주로 전반적인 틀을 구성하는 역활</li><li>- angular4, vuejs 경험. 개별 프로젝트 시 reactjs 사용 경험</li><li>- elasticsearch, filebeat, logstash kafka stack 사용 경험</li><li>- test code 도입 연구 및 활용 방안 모색</li></ul>",
+            "type": "work"
+        },
+        {
+            "sn": 1,
+            "link": "https://www.makeshop.com/",
+            "workPosition": "풀스택 웹 개발자",
+            "periodStart": "January 2011",
+            "periodEnd": "January 2014",
+            "organisation": "코리아 센터",
+            "experience": "<ul><li>- 몰테일 서비스 개발 초기부터 참여</li><li>- 초기부터 50만 회원 300억 매출 달성까지 기여</li><li>- 6개월간 미국 현지 물류 센터 근무</li><li>- 실제로 포장부터 배송까지 경험해보며 시스템 개선 경험</li></ul>",
+            "type": "work"
+        },
+        {
+            "sn": 1,
+            "link": "#",
+            "workPosition": "풀스택 웹 개발자",
+            "periodStart": "January 2010",
+            "periodEnd": "December 2010",
+            "organisation": "윈디소프트",
+            "experience": "<ul><li>- 현재는 없지만 많은 것을 경험할 수 있었던 곳</li><li>- 팀장님은 6개월간 공부하라 하셨지만, 이주 후 실무 투입 요청(이후부터 고생의 시작..)</li><li>- 입사 년도에 신규 게임 5개를 런칭</li><li>ㄴ 겟엠프트2, COHO online, 헤바 온라인, 괴혼, 러스티하츠</li><li>ㄴ 모두 망했고 회사도 망했습니다.</li></ul>",
             "type": "work"
         }
     ],
     "projects": [
         {
             "sn": 0,
-            "projectTitle": "a",
-            "periodStart": "b",
-            "periodEnd": "c",
-            "toolsUsed": ["python", "scikit-learn", "ipynb", "graph-api"],
-            "tags": ["machine-learning", "regression", "python"],
-            "shortInfo": "d",
-            "link": "e"
-        }
+            "projectTitle": "simple-editor (대표작)",
+            "periodStart": "January 2016",
+            "periodEnd": "December 2018",
+            "toolsUsed": ["javascript", "html", "css", "angular", "requireJS", "webpack", "git"],
+            "tags": ["web-editor", "photoshop", "only for company"],
+            "shortInfo": "<p>포토샵과 연동 가능한 enterprise web editor</p><p><img src='./img/simple_editor.gif' style='width:500px' onclick=''/></p>",
+            "link": "#"
+        },
+        {
+            "sn": 1,
+            "projectTitle": "몰테일 물류 시스템 (최고 히트작)",
+            "periodStart": "January 2011",
+            "periodEnd": "December 2014",
+            "toolsUsed": ["javascript", "cakePHP", "jquery", "mysql", "php"],
+            "tags": ["업계 1위", "수백억 매출", "초창기 멤버"],
+            "shortInfo": "<p>퍼블리싱부터 frontend, backend 구분없이 전담한 2인 개발자 중 1인</p><p>입고 시스템</p><p>계측 시스템</p><p>택배사와의 연동, 송장번호 발급 포함 배송 시스템</p><p>각각의 배송상태 처리</p><p>쿠폰 및 프로모션 코드 발급 시스템</p><p>바코드를 이용한 센터 내 물류 처리 시스템</p><p>각 물류센터 담당자 별로 처리 통계 시스템</p>",
+            "link": "https://post.malltail.com"
+        },
+        {
+            "sn": 2,
+            "projectTitle": "이미지 번역툴",
+            "periodStart": "January 2017",
+            "periodEnd": "December 2017",
+            "toolsUsed": ["javascript", "html", "css", "angular4", "typescript", "webpack", "mercurial"],
+            "tags": ["image-translation", "with c++ program", "only for company"],
+            "shortInfo": "<p>frontend 전담 1인 중 1인</p><p>image 내에서 한글을 인식할 수 있는 C++ 프로그램과 연동</p><p>추출된 한글과 좌표를 이용해 자동 번역 이후 번역된 이미지 완성</p><p>심플에디터와 연동하여 이미지의 세밀한 수정 기능 제공</p>",
+            "link": "#"
+        },
+        {
+            "sn": 3,
+            "projectTitle": "카페24 통합 번역 시스템 구축",
+            "periodStart": "January 2018",
+            "periodEnd": "December 2018",
+            "toolsUsed": ["vuejs", "elasticsearch", "rabbitMQ", "logstash", "kafka"],
+            "tags": ["translation", "ELK log stack", "only for company"],
+            "shortInfo": "<p>카페24에 등록된 대규모 상점의 판매중인 영문,중문,일문 전체 상품을 수집</p><p>각 카테고리 별로 자동 번역 및 검수 진행</p><p>번역이 완료되면 각 언어권의 상점으로 업데이트 처리</p>",
+            "link": "#"
+        },
+        {
+            "sn": 4,
+            "projectTitle": "카페24 통합 CS 시스템 구축",
+            "periodStart": "January 2019",
+            "periodEnd": "December 2019",
+            "toolsUsed": ["vuejs", "elasticsearch", "rabbitMQ", "logstash", "kafka"],
+            "tags": ["batch-system", "ELK log stack", "only for company"],
+            "shortInfo": "<p>카페24에 등록된 대규모 상점의 판매중인 영문,중문,일문 으로 접수되는 모든 문의를 수집</p><p>수집된 이메일, 각종 게시판, 리뷰 등의 문의들을 일괄적으로 확인 및 처리 할수 있는 시스템 구축</p>",
+            "link": "#"
+        },
+        {
+            "sn": 5,
+            "projectTitle": "프리백",
+            "periodStart": "July 2015",
+            "periodEnd": "December 2015",
+            "toolsUsed": ["jquery", "php", "codeigniter", "svn"],
+            "tags": ["imagick", "image-crop", "only for company"],
+            "shortInfo": "<p>퍼블리싱부터 frontend, backend 구분없이 3인 개발자 중 1인</p><p>cafe24에 등록된 상품의 이미지들을 전부 추출</p><p>face detector, text detector, color detector, tag detector 등을 이용하여 이미지 분류</p><p>php imagic 등을 활용하여 티몰, 라쿠텐 등 해외 오픈마켓에서 요구하는 이미지로 변형</p>",
+            "link": "#"
+        },
+        {
+            "sn": 6,
+            "projectTitle": "PSDA",
+            "periodStart": "July 2014",
+            "periodEnd": "December 2014",
+            "toolsUsed": ["codeigniter", "mysql", "jquery", "svn"],
+            "tags": ["psd", "translation", "only for company"],
+            "shortInfo": "<p>퍼블리싱부터 frontend, backend 구분없이 웹파트 담당 3인 개발자 중 1인</p><p>cafe24 내 ec admin 상품 등록/수정 쪽에서 psd 파일을 업로드 할 수 있는 기능</p><p>업로드 된 psd 파일을 조회/처리 할 수 있는 admin 페이지</p><p>psd 내 text layer 를 파싱하여 내려주는 window server 와의 통신</p><p>추출된 한글 문구에 대한 자동 번역 및 수동 번역 기능</p><p>번역된 문구로 다시 psd파일을 만들어 줄수 있는 rendering server 와의 통신</p>",
+            "link": "#"
+        },
+        {
+            "sn": 7,
+            "projectTitle": "몰테일 일본",
+            "periodStart": "January 2013",
+            "periodEnd": "December 2013",
+            "toolsUsed": ["cakePHP", "mysql", "jquery", "svn"],
+            "tags": ["japan", "malltail"],
+            "shortInfo": "<p>한국 시스템을 적용하여 일본 서비스 오픈</p>",
+            "link": "https://malltail.jp"
+        },
+        {
+            "sn": 8,
+            "projectTitle": "몰테일 중국",
+            "periodStart": "January 2012",
+            "periodEnd": "December 2012",
+            "toolsUsed": ["cakePHP", "mysql", "jquery", "svn"],
+            "tags": ["japan", "malltail"],
+            "shortInfo": "<p>한국 시스템을 적용하여 중국 서비스 오픈</p>",
+            "link": "https://malltail.cn"
+        },
+        {
+            "sn": 9,
+            "projectTitle": "괴혼 게임사이트",
+            "periodStart": "January 2010",
+            "periodEnd": "March 2010",
+            "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
+            "tags": ["첫 프로젝트", "망했어요"],
+            "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
+            "link": "https://getamped.juneinter.com"
+        },
+        {
+            "sn": 10,
+            "projectTitle": "헤바온라인 게임사이트",
+            "periodStart": "April 2010",
+            "periodEnd": "June 2010",
+            "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
+            "tags": ["망했어요", "없어졌어요"],
+            "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
+            "link": "https://getamped.juneinter.com"
+        },
+        {
+            "sn": 11,
+            "projectTitle": "겟앰프트2 게임사이트",
+            "periodStart": "July 2010",
+            "periodEnd": "September 2010",
+            "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
+            "tags": ["망했어요", "없어졌어요"],
+            "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
+            "link": "https://getamped.juneinter.com"
+        },
+        {
+            "sn": 12,
+            "projectTitle": "철권 게임사이트",
+            "periodStart": "October 2010",
+            "periodEnd": "December 2010",
+            "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
+            "tags": ["망했어요", "없어졌어요"],
+            "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
+            "link": "https://getamped.juneinter.com"
+        },
     ],
     "profileLinks": [
         
@@ -331,7 +471,7 @@ $('#name').html(pInfo.fname+' '+pInfo.lname+'<sub>&lt'+pInfo.nick+'/&gt</sub>');
 $('#contact').html(pInfo.mob+'</br>'+pInfo.email);
 $('#tabs').html(`                    
     <li class="tab col s2"><a href="#hello">인사말</a></li>
-    <li class="tab col s2"><a href="#skills">해왔던 것</a></li>
+    <li class="tab col s2"><a href="#skills">사용해왔던 것</a></li>
     <li class="tab col s2"><a href="#projects">만들었던 것</a></li>
     <li class="tab col s3"><a href="#experience">일해왔던 곳</a></li>
     <li class="tab col s3"><a href="#education">학교 생활</a></li>

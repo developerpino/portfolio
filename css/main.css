@@ -17,8 +17,9 @@ div.content {
 }
 
 .title{
-	font-size: 1.5rem;
+	font-size: 30pt;
 	font-weight: bold;
+	color: gold;
 }
 
 #name sub{
@@ -234,5 +235,9 @@ button:hover {
 }
 
 .tabs {
+	overflow: hidden;
+}
+
+.row .col.m6 {
 	overflow: hidden;
 }

@@ -88,7 +88,7 @@ javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 
 
 
-## 몰테일 고객 페이지
+## 몰테일 한국
 javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 
 2011.01 ~ 2014.01
@@ -109,13 +109,13 @@ javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 
 2012.01 ~ 2012.12
 
-- 미국 시스템을 적용하여 중국 서비스 오픈
+- 한국 시스템을 적용하여 중국 서비스 오픈
 
 ## 몰테일 일본
 javascript, html, css, jquery, mysql, php, cakePHP, svn, freeBSD, apache
 
 2013.01 ~ 2013.12
-- 미국 시스템을 적용하여 일본 서비스 오픈
+- 한국 시스템을 적용하여 일본 서비스 오픈
 
 # 현재 카페24 로의 이직
 
