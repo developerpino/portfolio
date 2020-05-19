@@ -367,7 +367,7 @@ const profile = {
             "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
             "tags": ["cf 모델 노홍철", "네이버 메인배너광고"],
             "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
-            "link": ""
+            "link": "#"
         },
         {
             "sn": 10,
@@ -377,7 +377,7 @@ const profile = {
             "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
             "tags": ["mmo rpg", "사내 최고렙 달성"],
             "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
-            "link": ""
+            "link": "#"
         },
         {
             "sn": 11,
@@ -387,7 +387,7 @@ const profile = {
             "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
             "tags": ["회심의 일격"],
             "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
-            "link": ""
+            "link": "#"
         },
         {
             "sn": 12,
@@ -397,7 +397,7 @@ const profile = {
             "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
             "tags": ["철권카드 등록", "사내 게임기 설치"],
             "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
-            "link": ""
+            "link": "#"
         },
     ],
     "profileLinks": [
