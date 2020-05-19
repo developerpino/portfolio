@@ -355,7 +355,7 @@ const profile = {
             "periodStart": "January 2012",
             "periodEnd": "December 2012",
             "toolsUsed": ["cakePHP", "mysql", "jquery", "svn"],
-            "tags": ["japan", "malltail"],
+            "tags": ["china", "malltail"],
             "shortInfo": "<p>한국 시스템을 적용하여 중국 서비스 오픈</p>",
             "link": "https://malltail.cn"
         },
@@ -365,9 +365,9 @@ const profile = {
             "periodStart": "January 2010",
             "periodEnd": "March 2010",
             "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
-            "tags": ["첫 프로젝트", "망했어요"],
+            "tags": ["cf 모델 노홍철", "네이버 메인배너광고"],
             "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
-            "link": "https://getamped.juneinter.com"
+            "link": ""
         },
         {
             "sn": 10,
@@ -375,9 +375,9 @@ const profile = {
             "periodStart": "April 2010",
             "periodEnd": "June 2010",
             "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
-            "tags": ["망했어요", "없어졌어요"],
+            "tags": ["mmo rpg", "사내 최고렙 달성"],
             "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
-            "link": "https://getamped.juneinter.com"
+            "link": ""
         },
         {
             "sn": 11,
@@ -385,9 +385,9 @@ const profile = {
             "periodStart": "July 2010",
             "periodEnd": "September 2010",
             "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
-            "tags": ["망했어요", "없어졌어요"],
+            "tags": ["회심의 일격"],
             "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
-            "link": "https://getamped.juneinter.com"
+            "link": ""
         },
         {
             "sn": 12,
@@ -395,9 +395,9 @@ const profile = {
             "periodStart": "October 2010",
             "periodEnd": "December 2010",
             "toolsUsed": ["javascript", "html/css", "php", "oracle", "postgres", "sql-relay"],
-            "tags": ["망했어요", "없어졌어요"],
+            "tags": ["철권카드 등록", "사내 게임기 설치"],
             "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
-            "link": "https://getamped.juneinter.com"
+            "link": ""
         },
     ],
     "profileLinks": [
