@@ -59,6 +59,7 @@ div.content {
 
 #pageb .tabs{
 	background: none;
+	font-family: 'East Sea Dokdo', cursive;
 }
 
 
@@ -201,10 +202,10 @@ a{
 body{
 	background-color: #1f1f1f;
 	color: white;
-	/**
-	font-family: "Lekton", monospace;
-	**/
+	/*
 	font-family: 'East Sea Dokdo', cursive;
+	*/
+	font-family: 'Gamja Flower', cursive;
 	font-size: 25pt;
 	font-display: auto;
 }
