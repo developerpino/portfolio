@@ -274,7 +274,7 @@ const profile = {
             "projectTitle": "simple-editor (대표작)",
             "periodStart": "January 2016",
             "periodEnd": "December 2018",
-            "toolsUsed": ["javascript", "html", "css", "angular", "requireJS", "webpack", "git"],
+            "toolsUsed": ["angular", "requireJS", "webpack", "git"],
             "tags": ["web-editor", "photoshop", "only for company"],
             "shortInfo": "<p>포토샵과 연동 가능한 enterprise web editor</p><p><img src='./img/simple_editor.gif' style='width:500px' onclick=''/></p>",
             "link": "#"
@@ -284,7 +284,7 @@ const profile = {
             "projectTitle": "몰테일 물류 시스템 (최고 히트작)",
             "periodStart": "January 2011",
             "periodEnd": "December 2014",
-            "toolsUsed": ["javascript", "cakePHP", "jquery", "mysql", "php"],
+            "toolsUsed": ["javascript", "cakePHP", "jquery", "mysql"],
             "tags": ["업계 1위", "수백억 매출", "초창기 멤버"],
             "shortInfo": "<p>퍼블리싱부터 frontend, backend 구분없이 전담한 2인 개발자 중 1인</p><p>입고 시스템</p><p>계측 시스템</p><p>택배사와의 연동, 송장번호 발급 포함 배송 시스템</p><p>각각의 배송상태 처리</p><p>쿠폰 및 프로모션 코드 발급 시스템</p><p>바코드를 이용한 센터 내 물류 처리 시스템</p><p>각 물류센터 담당자 별로 처리 통계 시스템</p>",
             "link": "https://post.malltail.com"
@@ -294,7 +294,7 @@ const profile = {
             "projectTitle": "이미지 번역툴",
             "periodStart": "January 2017",
             "periodEnd": "December 2017",
-            "toolsUsed": ["javascript", "html", "css", "angular4", "typescript", "webpack", "mercurial"],
+            "toolsUsed": ["angular4", "typescript", "webpack", "mercurial"],
             "tags": ["image-translation", "with c++ program", "only for company"],
             "shortInfo": "<p>frontend 전담 1인 중 1인</p><p>image 내에서 한글을 인식할 수 있는 C++ 프로그램과 연동</p><p>추출된 한글과 좌표를 이용해 자동 번역 이후 번역된 이미지 완성</p><p>심플에디터와 연동하여 이미지의 세밀한 수정 기능 제공</p>",
             "link": "#"
