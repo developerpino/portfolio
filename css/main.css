@@ -12,7 +12,7 @@ div.content {
 }
 
 #name{
-	font-size:  2.5rem;
+	font-size:  50pt;
 	font-weight: bold;
 }
 
@@ -28,6 +28,7 @@ div.content {
 
 #hello p,#summary p{
 	text-align: justify;
+	margin: 15px 0;
 }
 
 .row {
@@ -94,6 +95,7 @@ div.content {
 
 
 .tabs .tab a{
+	font-size: 20pt;
 	opacity: 1;
 }
 
@@ -180,6 +182,7 @@ a{
 .tabs .tab a.active {
 	color: white;
 	opacity: 1;
+	font-size: 16pt;
 }
 
 .tabs .tab a{
@@ -197,15 +200,13 @@ a{
 body{
 	background-color: #1f1f1f;
 	color: white;
+	/**
 	font-family: "Lekton", monospace;
-	font-size: 1.15rem;
+	**/
+	font-family: 'East Sea Dokdo', cursive;
+	font-size: 25pt;
 	font-display: auto;
 }
-
-h6 {
-	font-size: 1.15rem;
-}
-
 
 .swal-button {
 	color: white;
@@ -226,4 +227,12 @@ button:hover {
 
 .swal-button-container {
 	display: inline;
+}
+
+.swal-text {
+	font-size: 20pt;
+}
+
+.tabs {
+	overflow: hidden;
 }
