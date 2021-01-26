@@ -258,13 +258,13 @@ const profile = {
             "type": "work"
         },
         {
-            "sn": 1,
+            "sn": 2,
             "link": "#",
             "workPosition": "풀스택 웹 개발자",
             "periodStart": "January 2010",
             "periodEnd": "December 2010",
             "organisation": "윈디소프트",
-            "experience": "<ul><li>- 현재는 없어졌지만 많은 것을 경험할 수 있었던 곳</li><li>- 팀장님은 6개월간 공부하라 하셨지만, 이주 후 실무 투입 요청(이후부터 고생의 시작..)</li><li>- 입사 년도에 신규 게임 5개를 런칭</li><li>ㄴ 겟엠프트2, COHO online, 헤바 온라인, 괴혼, 러스티하츠</li><li>ㄴ 모두 망했고 회사도 망했습니다.</li></ul>",
+            "experience": "<ul><li>- 현재는 없어졌지만 많은 것을 경험할 수 있었던 곳</li><li>- 각종 게시판 CRUD, file, pagination, excel 등 기본기</li><li>- IE 6까지 지원</li><li>- 겟앰프트2, 괴혼, 헤바, 철권 게임 커뮤니티 사이트 제작</li></ul>",
             "type": "work"
         }
     ],
@@ -285,7 +285,7 @@ const profile = {
             "periodStart": "January 2011",
             "periodEnd": "December 2014",
             "toolsUsed": ["javascript", "cakePHP", "jquery", "mysql"],
-            "tags": ["업계 1위", "수백억 매출", "초창기 멤버"],
+            "tags": ["배송대행 업계 독보적 1위", "맨 바닥에서 시작", "현재 372만 회원수", "초창기 멤버"],
             "shortInfo": "<p>퍼블리싱부터 frontend, backend 구분없이 전담한 2인 개발자 중 1인</p><p>입고 시스템</p><p>계측 시스템</p><p>택배사와의 연동, 송장번호 발급 포함 배송 시스템</p><p>각각의 배송상태 처리</p><p>쿠폰 및 프로모션 코드 발급 시스템</p><p>바코드를 이용한 센터 내 물류 처리 시스템</p><p>각 물류센터 담당자 별로 처리 통계 시스템</p>",
             "link": "https://post.malltail.com"
         },
@@ -365,7 +365,7 @@ const profile = {
             "periodStart": "January 2010",
             "periodEnd": "March 2010",
             "toolsUsed": ["javascript", "php", "oracle", "postgres", "sql-relay"],
-            "tags": ["cf 모델 노홍철", "네이버 메인배너광고"],
+            "tags": ["cf 모델 노홍철", "네이버 메인배너광고", "각종 게시판 CRUD", "file", "pagination", "excel", "기본기"],
             "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
             "link": "#"
         },
