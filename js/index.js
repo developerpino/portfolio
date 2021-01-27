@@ -134,7 +134,7 @@ $(window).resize(onWindowResize);
 
 swal({
     title: "Hello World!!!",
-    text: "좌측 상단 재생해주세요, 저의 열정입니다."
+    text: "안녕하세요, 개발자 피노 입니다."
 });
 
 const profile = {
@@ -274,8 +274,8 @@ const profile = {
             "projectTitle": "simple-editor (대표작)",
             "periodStart": "January 2016",
             "periodEnd": "December 2018",
-            "toolsUsed": ["angular", "requireJS", "webpack", "git"],
-            "tags": ["web-editor", "photoshop", "only for company"],
+            "toolsUsed": ["angular", "requireJS", "webpack", "git", "angularAMD"],
+            "tags": ["web-editor", "like photoshop", "editor 내 영역은 css로", "preview 영역은 canvas"],
             "shortInfo": "<p>포토샵과 연동 가능한 enterprise web editor</p><p><img src='./img/simple_editor.gif' style='width:500px' onclick=''/></p>",
             "link": "#"
         },
@@ -285,7 +285,7 @@ const profile = {
             "periodStart": "January 2011",
             "periodEnd": "December 2014",
             "toolsUsed": ["javascript", "cakePHP", "jquery", "mysql"],
-            "tags": ["배송대행 업계 독보적 1위", "맨 바닥에서 시작", "현재 372만 회원수", "초창기 멤버"],
+            "tags": ["배송대행 업계 독보적 1위", "맨 바닥에서 시작", "현재 372만 회원수", "UX 개선", "비지니스", "미국출장", "일본출장", "대규모 서비스가 되는 경험", "Database Replication", "Mysql Table Partitioning"],
             "shortInfo": "<p>퍼블리싱부터 frontend, backend 구분없이 전담한 2인 개발자 중 1인</p><p>입고 시스템</p><p>계측 시스템</p><p>택배사와의 연동, 송장번호 발급 포함 배송 시스템</p><p>각각의 배송상태 처리</p><p>쿠폰 및 프로모션 코드 발급 시스템</p><p>바코드를 이용한 센터 내 물류 처리 시스템</p><p>각 물류센터 담당자 별로 처리 통계 시스템</p>",
             "link": "https://post.malltail.com"
         },
@@ -365,7 +365,7 @@ const profile = {
             "periodStart": "January 2010",
             "periodEnd": "March 2010",
             "toolsUsed": ["javascript", "php", "oracle", "postgres", "sql-relay"],
-            "tags": ["cf 모델 노홍철", "네이버 메인배너광고", "각종 게시판 CRUD", "file", "pagination", "excel", "기본기"],
+            "tags": ["cf 모델 노홍철", "네이버 메인배너광고", "각종 게시판 CRUD", "File", "Pagination", "Excel", "QA 시작하는날 퇴근불가"],
             "shortInfo": "<p>frontend, backend 구분없이 전담</p><p>javascript로 게임 런처 activeX 설치 및 실행</p><p>클라이언트 pc 사양 체크 activeX 설치 및 실행</p><p>게임 설명 가이드</p><p>커뮤니티 게시판</p><p>각종 이벤트 페이지</p>",
             "link": "#"
         },
